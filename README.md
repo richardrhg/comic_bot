@@ -42,7 +42,7 @@ python manga_browser_scraper.py -u "漫畫網址" --auto-download --output-dir "
 **示例:**
 ```bash
 # 基本自動下載
-python manga_browser_scraper.py -u "https://ganma.jp/comic/123" --auto-download
+python manga_browser_scraper.py -u "https://ganma.jp/comic/123" --auto-download --output-dir "目標資料夾"
 
 # 自定義輸出目錄和延遲
 python manga_browser_scraper.py -u "https://ganma.jp/comic/123" --auto-download --output-dir "my_manga" --delay 1.0
