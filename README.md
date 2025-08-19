@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## 使用方式
 
-**目前僅針對 https://ganma.jp/web，可供下載**
+**目前僅針對 [ganma.jp](https://ganma.jp/web)，可供下載**
 
 ### 方式1: 爬取並自動下載（推薦）
 
